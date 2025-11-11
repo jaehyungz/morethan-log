@@ -10,12 +10,12 @@ const CONFIG = {
     github: "jaehyungz",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `이당저당`,
+      href: "https://figma.com/design/JhmZajrDGWYZnEevb4c7uR/알려준당?t=CZEA2bx1dFUQuOML-0",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "kidev-log",
